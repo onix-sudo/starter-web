@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ioana Popescu	onixpopescu@g	@onix
 
 # THANKS
 
